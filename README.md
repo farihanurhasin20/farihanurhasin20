@@ -3,7 +3,7 @@
 ### Hi there 👋, 
 #### Glad to see you here
 
-I'm @Fariha Nur Hasin. I'm a final-year student pursuing Bachelors's in Computer Science 🎓 from North South University 🏛.  I'm currently into Full stack Development 🕸️ and working on Machine Learning 🤓.
+I'm @Fariha Nur Hasin. I'm a final-year student pursuing Bachelors's in Computer Science 🎓 from North South University 🏛.
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working on **Quantum Teleportation**
@@ -13,6 +13,8 @@ I'm @Fariha Nur Hasin. I'm a final-year student pursuing Bachelors's in Computer
 - 📫 How to reach me **fariha.hasin4424@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny**
+  
+Skills: REACT / JS / HTML / CSS / PYTHON / MACHINE LEARNING / QUANTUM COMPUTING
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
