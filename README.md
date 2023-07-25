@@ -1,4 +1,4 @@
-![I am Fariha](Banner.png)
+![I am Fariha](poster.png)
 
 ### Hi there 👋, 
 ### Glad to see you here
