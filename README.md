@@ -1,4 +1,4 @@
-![I am Fariha](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/360104865_707168737889664_2570630024470163900_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9zropteEKrwAX-DNSU5&_nc_oc=AQnzEfnzkzMHGY23e3XECMe5Dht2qaSiY1Rrrqf8asewWGTYyYLt0Z-T26GeeaUgfow&_nc_ht=scontent.fdac14-1.fna&oh=00_AfDnP27qV2Bvmfcm24V3lV0wTqgcC7h-8Bl5RFO9TsssNg&oe=64C2F895)
+![I am Fariha](Banner.png)
 
 ### Hi there 👋, 
 ### Glad to see you here
