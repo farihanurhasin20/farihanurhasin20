@@ -15,7 +15,7 @@ I'm @Fariha Nur Hasin, currently in my final year of studies, working towards a 
 
 - ⚡ Fun fact **I think I'm Funny**
   
-Skills: REACT / JS / HTML / CSS / PYTHON / MACHINE LEARNING / QUANTUM COMPUTING
+Skills: PHP / JS / HTML / CSS / PYTHON / MACHINE LEARNING / QUANTUM COMPUTING
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
