@@ -62,6 +62,7 @@ Skills: PHP / JS / HTML / CSS / PYTHON / MACHINE LEARNING / QUANTUM COMPUTING
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=farihanurhasin20&theme=github-dark-blue&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farihanurhasin20&show_icons=true&theme=github_dark)
+
 
 
